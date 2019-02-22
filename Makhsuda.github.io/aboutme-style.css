@@ -1,0 +1,28 @@
+body{
+	background-color: lightblue;
+}
+
+.mood{
+	display: flex;
+	flex-flow: row nowrap;
+	justify-content: flex-start;
+	align-items: left;
+}
+.image_block{
+	width: 200px;
+	height: 200px;
+}
+
+.mood_block{
+	margin:5px;
+	border: 2px dashed green;
+	text-align: center;
+	padding: 10px;
+}
+h1{
+	font-style: italic;
+}
+.serif {
+	font-family: Arial, fantasy;
+	color: blue;
+}
